@@ -56,7 +56,7 @@ if submitted:
 
     pdf.set_font("Arial", "", 12)
     pdf.multi_cell(0, 8,
-        f"Dear {intern_name.split()[0]},\n\n"
+        f"Dear {intern_name.split()[0]},\n"
         f"We are pleased to offer you the position of {position} at {company_name}, "
         "a company focused on innovation and professional growth. "
         "This internship provides a great opportunity for you to enhance your skills and gain real-world experience.\n"
