@@ -1,0 +1,16 @@
+# Ignore Python cache and compiled files
+__pycache__/
+
+# Ignore virtual environments
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore locally generated offer letters
+*.pdf
+
+# If using logs or temp files
+*.log
+*.tmp
